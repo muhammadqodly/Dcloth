@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936257257345",
+    "project_id": "dcloth-7cf53",
+    "storage_bucket": "dcloth-7cf53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936257257345:android:ddeed668131856a2447280",
+        "android_client_info": {
+          "package_name": "com.example.dcloth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936257257345-hd0hqjstjnhok56iunri406k28f2u6cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVIfV5057uViTfDc9JO9SXnyZIKFRC70A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936257257345-hd0hqjstjnhok56iunri406k28f2u6cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
